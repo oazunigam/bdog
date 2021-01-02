@@ -1,153 +1,72 @@
-IdPublicacion;FechaPublicacion;NombreAutor;NombreEntidad;PaisEntidad
-2010001;2010;Benitez, H.D;Pontificia Universidad Javeriana Cali;Colombia
-2010001;2010;Alvarez, G.I;Pontificia Universidad Javeriana Cali;Colombia
-2010002;2010;Nelson Jair Cuchumbe, H;Pontificia Universidad Javeriana Cali;Colombia
-2010002;2010;Nelson Jair Cuchumbe, H;Pontificia Universidad Javeriana Cali;Colombia
-2010003;2010;Quintero, L.F.A;Pontificia Universidad Javeriana Cali;Colombia
-2010004;2010;Mosquera, C;Pontificia Universidad Javeriana Cali;Colombia
-2010004;2010;Garzon, F.H;Pontificia Universidad Javeriana Cali;Colombia
-2010004;2010;Muriel, D.F;Pontificia Universidad Javeriana Cali;Colombia
-2010005;2010;Quintero, M.A;Pontificia Universidad Javeriana Cali;Colombia
-2010005;2010;Quintero, M.A;Pontificia Universidad Javeriana Cali;Colombia
-2010006;2010;Arrivillaga-Quintero, M;Pontificia Universidad Javeriana Cali;Colombia
-2010006;2010;Arrivillaga-Quintero, M;Pontificia Universidad Javeriana Cali;Colombia
-2010007;2010;Florez, R.O;Universidad del Valle;Colombia
-2010007;2010;Florez, R.O;Universidad del Valle;Colombia
-2010007;2010;Florez, R.O;Universidad del Valle;Colombia
-2010007;2010;Florez, R.O;Universidad del Valle;Colombia
-2010007;2010;Cabrera, M.F.H;Pontificia Universidad Javeriana Cali;Colombia
-2010007;2010;Cabrera, M.F.H;Pontificia Universidad Javeriana Cali;Colombia
-2010007;2010;Cabrera, M.F.H;Pontificia Universidad Javeriana Cali;Colombia
-2010007;2010;Cabrera, M.F.H;Pontificia Universidad Javeriana Cali;Colombia
-2010008;2010;Radcliffe, C;Michigan State University;United States
-2010008;2010;Radcliffe, C;Michigan State University;United States
-2010008;2010;Motato, E;Pontificia Universidad Javeriana Cali;Colombia
-2010008;2010;Motato, E;Pontificia Universidad Javeriana Cali;Colombia
-2010009;2010;Palma, L.A.M;Universidad de Sevilla;Spain
-2010009;2010;Aguado, L.F.Q;Pontificia Universidad Javeriana Cali;Colombia
-2010010;2010;Catano, N;University of Madeira;Portugal
-2010010;2010;Rueda, C;Pontificia Universidad Javeriana Cali;Colombia
-2010011;2010;Pachajoa, H.M;Universidad del Valle;Colombia
-2010011;2010;Hurtado, P.M;Pontificia Universidad Javeriana Cali;Colombia
-2010012;2010;Radcliffe, C.J;Michigan State University;United States
-2010012;2010;Motato, E;Pontificia Universidad Javeriana Cali;Colombia
-2010013;2010;Bergman, G.R;Universidad del Valle;Colombia
-2010013;2010;Castaño, B.P;Universidad Politecnica de Valencia;Spain
-2010013;2010;Rincon, V.G;Pontificia Universidad Javeriana Cali;Colombia
-2010014;2010;Bravo, E;Universidad del Valle;Colombia
-2010014;2010;Garcia, P;Universidad Politecnica de Valencia;Spain
-2010014;2010;Alvarez, G.I;Pontificia Universidad Javeriana Cali;Colombia
-2010014;2010;Victoria, J.H;Pontificia Universidad Javeriana Cali;Colombia
-2010015;2010;Ortega, R;Universidad de Granada;Spain
-2010015;2010;Ortega, R;Universidad de Granada;Spain
-2010015;2010;Rivera, A;Pontificia Universidad Javeriana Cali;Colombia
-2010015;2010;Rivera, A;Pontificia Universidad Javeriana Cali;Colombia
-2010016;2010;Tello, S.A;Asociacion para el Estudio y Conservacion de las Aves Acuaticas en Colombia - Calidris;Colombia
-2010016;2010;Kattan, G.H;Fundacion EcoAndina;Colombia
-2010016;2010;Tello, S.A;Fundacion EcoAndina;Colombia
-2010016;2010;Kattan, G.H;Wildlife Conservation Society;Colombia
-2010016;2010;Tello, S.A;Wildlife Conservation Society;Colombia
-2010016;2010;Tello, S.A;Asociacion para el Estudio y Conservacion de las Aves Acuaticas en Colombia - Calidris;Colombia
-2010016;2010;Kattan, G.H;Fundacion EcoAndina;Colombia
-2010016;2010;Tello, S.A;Fundacion EcoAndina;Colombia
-2010016;2010;Kattan, G.H;Wildlife Conservation Society;Colombia
-2010016;2010;Tello, S.A;Wildlife Conservation Society;Colombia
-2010016;2010;Kattan, G.H;Pontificia Universidad Javeriana Cali;Colombia
-2010016;2010;Kattan, G.H;Pontificia Universidad Javeriana Cali;Colombia
-2010017;2010;Salazar-Torres, I.C;Universidad de Granada;Spain
-2010017;2010;Tamayo-Cardona, J.A;Universidad del Valle;Colombia
-2010017;2010;Lema-Soto, L.F;Pontificia Universidad Javeriana Cali;Colombia
-2010017;2010;Varela-Arevalo, M.T;Pontificia Universidad Javeriana Cali;Colombia
-2010017;2010;Duarte-Alarcön, C;Pontificia Universidad Javeriana Cali;Colombia
-2010018;2010;Galindo-Cardona, A;Fundacion EcoAndina;Colombia
-2010018;2010;Murcia, C;Fundacion EcoAndina;Colombia
-2010018;2010;Galindo-Cardona, A;University of Puerto Rico;United States
-2010018;2010;Galindo-Cardona, A;Fundacion EcoAndina;Colombia
-2010018;2010;Murcia, C;Fundacion EcoAndina;Colombia
-2010018;2010;Galindo-Cardona, A;University of Puerto Rico;United States
-2010018;2010;Kattan, G.H;Pontificia Universidad Javeriana Cali;Colombia
-2010018;2010;Kattan, G.H;Pontificia Universidad Javeriana Cali;Colombia
-2010019;2010;Rogers, H.L;Universidad de Antioquia;Colombia
-2010019;2010;Arango-Lasprilla, J.C;Virginia Commonwealth University;United States
-2010019;2010;Kreutzer, J;Virginia Commonwealth University;United States
-2010019;2010;Nicholls, E;Virginia Commonwealth University;United States
-2010019;2010;Rogers, H.L;Universidad de Antioquia;Colombia
-2010019;2010;Arango-Lasprilla, J.C;Virginia Commonwealth University;United States
-2010019;2010;Kreutzer, J;Virginia Commonwealth University;United States
-2010019;2010;Nicholls, E;Virginia Commonwealth University;United States
-2010019;2010;Aponte, M;Pontificia Universidad Javeriana Cali;Colombia
-2010019;2010;Aponte, M;Pontificia Universidad Javeriana Cali;Colombia
-2010019;2010;Quijano, M.C;Pontificia Universidad Javeriana Cali;Colombia
-2010019;2010;Quijano, M.C;Pontificia Universidad Javeriana Cali;Colombia
-2010019;2010;Cuervo, M.T;Pontificia Universidad Javeriana Cali;Colombia
-2010019;2010;Cuervo, M.T;Pontificia Universidad Javeriana Cali;Colombia
-2010020;2010;Hofmann, S.G;Boston University;United States
-2010020;2010;Caballo, V.E;Universidad de Granada;Spain
-2010020;2010;Arias, B;University of Valladolid;Spain
-2010020;2010;Irurtia, M.J;University of Valladolid;Spain
-2010020;2010;Hofmann, S.G;Boston University;United States
-2010020;2010;Caballo, V.E;Universidad de Granada;Spain
-2010020;2010;Arias, B;University of Valladolid;Spain
-2010020;2010;Irurtia, M.J;University of Valladolid;Spain
-2010020;2010;Salazar, I.C;Pontificia Universidad Javeriana Cali;Colombia
-2010020;2010;Salazar, I.C;Pontificia Universidad Javeriana Cali;Colombia
-2010021;2010;Mejia, A.G;Centre de Recherche en Sciences Sociales et Management (CR2SM);France
-2010021;2010;Mejia, A.G;Normandie Innovation Marche Entreprise Consommation (NIMEC);France
-2010021;2010;Mejia, A.G;Universidad de Rouen;France
-2010021;2010;Mejia, A.G;Universidad del Valle;Colombia
-2010021;2010;Mejia, A.G;Pontificia Universidad Javeriana Cali;Colombia
-2010022;2010;Arango, A.L;Universidad Catolica Popular de Risaralda;Colombia
-2010022;2010;Restrepo, P.A;Universidad Catolica Popular de Risaralda;Colombia
-2010022;2010;Villegas, M.J;Universidad Catolica Popular de Risaralda;Colombia
-2010022;2010;Lemos, M;Universidad CES;Colombia
-2010022;2010;Toro, B.E;Universidad CES;Colombia
-2010022;2010;Pinilla, M.L;Universidad Cooperativa de Colombia;Colombia
-2010022;2010;Hurtado, M.H;Universidad de Antioquia;Colombia
-2010022;2010;Gomez, Y;Universidad de los Andes;Colombia
-2010022;2010;Lopez, I.C;Universidad de Manizales;Colombia
-2010022;2010;Ochoa, N.L;Universidad de San Buenaventura - Cartagena;Colombia
-2010022;2010;Londoño, N.H;Universidad de San Buenaventura - Medellin;Colombia
-2010022;2010;Marin, C.A;Universidad de San Buenaventura - Medellin;Colombia
-2010022;2010;Villa-Roel, D;Universidad de Santander UDES;Colombia
-2010022;2010;Palacio, J;Universidad del Norte;Colombia
-2010022;2010;Juarez, F;Universidad del Rosario;Colombia
-2010022;2010;Agudelo, D;Universidad Pontificia Bolivariana - Bucaramanga;Colombia
-2010022;2010;Escobar, B;Universidad Pontificia Bolivariana - Medellin;Colombia
-2010022;2010;Herron, I;Universidad Pontificia Bolivariana - Medellin;Colombia
-2010022;2010;Muñoz, O;Universidad Pontificia Bolivariana - Medellin;Colombia
-2010022;2010;Rojas, A.L;Pontificia Universidad Javeriana Cali;Colombia
-2010022;2010;Uribe, A.F;Pontificia Universidad Javeriana Cali;Colombia
-2010023;2010;Arboleda, Ana M.;Pontificia Universidad Javeriana Cali;Colombia
-2010023;2010;Alonso, Julio C.;Universidad del Valle;Colombia
-2010023;2010;Alonso, Julio C.;Universidad ICESI;Colombia
-2010023;2010;Arboleda, Ana M.;Universidad ICESI;Colombia
-2010024;2010;Barbosa, David;Universidad del Rosario;Colombia
-2010024;2010;Contreras, Francoise;Universidad del Rosario;Colombia
-2010024;2010;Juarez, Fernando;Universidad del Rosario;Colombia
-2010024;2010;Barbosa, David;Universidad del Rosario;Colombia
-2010024;2010;Contreras, Francoise;Universidad del Rosario;Colombia
-2010024;2010;Juarez, Fernando;Universidad del Rosario;Colombia
-2010024;2010;Fernando Uribe, Ana;Pontificia Universidad Javeriana Cali;Colombia
-2010024;2010;Fernando Uribe, Ana;Pontificia Universidad Javeriana Cali;Colombia
-2010025;2010;Fernando Aguado-Quintero, Luis;Pontificia Universidad Javeriana Cali;Colombia
-2010025;2010;Fernando Aguado-Quintero, Luis;Pontificia Universidad Javeriana Cali;Colombia
-2010025;2010;Maria Osorio-Mejia, Ana;Pontificia Universidad Javeriana Cali;Colombia
-2010025;2010;Maria Osorio-Mejia, Ana;Pontificia Universidad Javeriana Cali;Colombia
-2010025;2010;Isabel Riascos-Correa, Gloria;Pontificia Universidad Javeriana Cali;Colombia
-2010025;2010;Isabel Riascos-Correa, Gloria;Pontificia Universidad Javeriana Cali;Colombia
-2010025;2010;Rodrigo Ahumada-Castro, Jaime;Pontificia Universidad Javeriana Cali;Colombia
-2010025;2010;Rodrigo Ahumada-Castro, Jaime;Pontificia Universidad Javeriana Cali;Colombia
-2010026;2010;Alegria Castellanos, Alexander;Pontificia Universidad Javeriana Cali;Colombia
-2010026;2010;Alegria Castellanos, Alexander;Pontificia Universidad Javeriana Cali;Colombia
-2010026;2010;Arroyo Mina, Jose Santiago;Pontificia Universidad Javeriana Cali;Colombia
-2010026;2010;Arroyo Mina, Jose Santiago;Pontificia Universidad Javeriana Cali;Colombia
-2010027;2010;Jaramillo-Botero, A;California Institute of Technology;United States
-2010027;2010;Blanco, M;California Institute of Technology;United States
-2010027;2010;Li, Y;California Institute of Technology;United States
-2010027;2010;McGuinness, G;California Institute of Technology;United States
-2010027;2010;Jaramillo-Botero, A;California Institute of Technology;United States
-2010027;2010;Blanco, M;California Institute of Technology;United States
-2010027;2010;Li, Y;California Institute of Technology;United States
-2010027;2010;McGuinness, G;California Institute of Technology;United States
-2010027;2010;Jaramillo-Botero, A.;Pontificia Universidad Javeriana Cali;Colombia
-2010027;2010;Jaramillo-Botero, A.;Pontificia Universidad Javeriana Cali;Colombia
+IdPublicacion;NombreEntidad;PaisEntidad;FechaPublicacion
+2010001;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010002;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010003;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010004;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010005;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010006;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010007;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010007;Universidad del Valle;Colombia;2010
+2010008;Michigan State University;United States;2010
+2010008;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010009;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010009;Universidad de Sevilla;Spain;2010
+2010010;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010010;University of Madeira;Portugal;2010
+2010011;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010011;Universidad del Valle;Colombia;2010
+2010012;Michigan State University;United States;2010
+2010012;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010013;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010013;Universidad del Valle;Colombia;2010
+2010013;Universidad Politecnica de Valencia;Spain;2010
+2010014;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010014;Universidad del Valle;Colombia;2010
+2010014;Universidad Politecnica de Valencia;Spain;2010
+2010015;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010015;Universidad de Granada;Spain;2010
+2010016;Asociacion para el Estudio y Conservacion de las Aves Acuaticas en Colombia - Calidris;Colombia;2010
+2010016;Fundacion EcoAndina;Colombia;2010
+2010016;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010016;Wildlife Conservation Society;Colombia;2010
+2010017;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010017;Universidad de Granada;Spain;2010
+2010017;Universidad del Valle;Colombia;2010
+2010018;Fundacion EcoAndina;Colombia;2010
+2010018;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010018;University of Puerto Rico;United States;2010
+2010019;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010019;Universidad de Antioquia;Colombia;2010
+2010019;Virginia Commonwealth University;United States;2010
+2010020;Boston University;United States;2010
+2010020;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010020;Universidad de Granada;Spain;2010
+2010020;University of Valladolid;Spain;2010
+2010021;Centre de Recherche en Sciences Sociales et Management (CR2SM);France;2010
+2010021;Normandie Innovation Marche Entreprise Consommation (NIMEC);France;2010
+2010021;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010021;Universidad de Rouen;France;2010
+2010021;Universidad del Valle;Colombia;2010
+2010022;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010022;Universidad Catolica Popular de Risaralda;Colombia;2010
+2010022;Universidad CES;Colombia;2010
+2010022;Universidad Cooperativa de Colombia;Colombia;2010
+2010022;Universidad de Antioquia;Colombia;2010
+2010022;Universidad de los Andes;Colombia;2010
+2010022;Universidad de Manizales;Colombia;2010
+2010022;Universidad de San Buenaventura - Cartagena;Colombia;2010
+2010022;Universidad de San Buenaventura - Medellin;Colombia;2010
+2010022;Universidad de Santander UDES;Colombia;2010
+2010022;Universidad del Norte;Colombia;2010
+2010022;Universidad del Rosario;Colombia;2010
+2010022;Universidad Pontificia Bolivariana - Bucaramanga;Colombia;2010
+2010022;Universidad Pontificia Bolivariana - Medellin;Colombia;2010
+2010023;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010023;Universidad del Valle;Colombia;2010
+2010023;Universidad ICESI;Colombia;2010
+2010024;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010024;Universidad del Rosario;Colombia;2010
+2010025;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010026;Pontificia Universidad Javeriana Cali;Colombia;2010
+2010027;California Institute of Technology;United States;2010
+2010027;Pontificia Universidad Javeriana Cali;Colombia;2010
